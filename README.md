@@ -1,4 +1,4 @@
-# JaveScript
+# JavaScript
 
 Learning JavaScript from JS all in one for Dummies.
 
